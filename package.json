@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/matiasbn/buda-proof-of-work/issues"
   },
-  "homepage": "https://github.com/matiasbn/buda-proof-of-work#readme"
+  "homepage": "https://github.com/matiasbn/buda-proof-of-work#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "crypto-random-string": "^3.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
 }
