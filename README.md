@@ -21,3 +21,7 @@ npm run start
 ```
 
 It would print a ```done``` message once the JSON file is created. The file name is 'buda-pow.json'
+
+# buda-pow.json
+
+The project already includes a buda-pow.json file with the specified data.
