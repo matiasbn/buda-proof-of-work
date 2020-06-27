@@ -1,4 +1,4 @@
-#Buda POW
+# Buda POW
 
 JS script to lookup for the 'b00da' substring in the SHA256 digest of a random 100 length long hex string.
 
