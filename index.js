@@ -21,7 +21,4 @@ digests.forEach((digest, index) => {
 
 const json = JSON.stringify(object);
 
-console.log(object);
-console.log(json);
-
 fs.writeFile('buda-pow.json', json, 'utf8', () => console.log('done'));
