@@ -20,6 +20,8 @@ Run the start script of the package.json file:
 npm run start
 ```
 
+The script itself is in the index.js file.
+
 It would print a ```done``` message once the JSON file is created. The file name is 'buda-pow.json'
 
 # buda-pow.json
